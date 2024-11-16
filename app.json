@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "projeto-freedom-drive",
+    "slug": "snack-080d0b5c-b3c5-42d5-9323-be7461c5892d",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "[AULA 12] - Mostrando um exemplo de Modal do React Native"
+  }
+}
