@@ -10,12 +10,12 @@
 - Trello
 - MySQL
 
-  ## Matérias do curso TADS do Centro Universitário Senac ultilizadas:
-  - Usabilidade e Interface Humano-Computador
-  - Sistemas Moveis
-  - Programação Web
-  - Análise de Sistemas
-  - Banco de Dados
+## Matérias do curso TADS do Centro Universitário Senac ultilizadas:
+- Usabilidade e Interface Humano-Computador
+- Sistemas Moveis
+- Programação Web
+- Análise de Sistemas
+- Banco de Dados
  
   ## Desenvolvido por:
   - Filipe Angelo
