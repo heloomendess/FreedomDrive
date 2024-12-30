@@ -1,11 +1,26 @@
-# Sample Snack app
+# Freedom Drive
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+- O Freedom Drive é um aplicativo de locação de veículos para Pessoas com Deficiência (PCDs) feito para a matéria de Projeto Integrador do terceiro semestre da graduação em Análise e Desenvolvimento de Sistemas no Centro Universitário Senac - Santo Amaro. Nosso objetivo é proporcionar mais autonomia e inclusão, oferecendo uma experiência acessível, prática e personalizada.
+- No Freedom Drive, a experiência do usuário é simples, prática e inclusiva. Desde o cadastro, o aplicativo oferece suporte personalizado para atender às necessidades específicas de cada PCD. O usuário pode explorar veículos adaptados e reservar o carro ideal em poucos toques.
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+## Linguagens e ferramentas ultilizadas no projeto:
+- JavaScript
+- React Native
+- Figma
+- Trello
+- MySQL
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+  ## Matérias do curso TADS do Centro Universitário Senac ultilizadas:
+  - Usabilidade e Interface Humano-Computador
+  - Sistemas Moveis
+  - Programação Web
+  - Análise de Sistemas
+  - Banco de Dados
+ 
+  ## Desenvolvido por:
+  - Filipe Angelo
+  - Heloisa Mendes
+  - Henrique Leal
+  - Kevin Stenio
+  - Renan França
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
